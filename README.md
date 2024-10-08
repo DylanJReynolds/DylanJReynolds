@@ -16,19 +16,22 @@ Welcome to my GitHub portfolio! I am a Ontario Tech University student majoring 
 
 ## 🚀 Projects
 
-### [📁 Project Name 1](https://github.com/your-username/project-1)
-**Tech Stack:** React, Node.js, MongoDB
+### [📁 Dungeons and Dragons Character Creator](https://github.com/your-username/project-1)
+**Tech Stack:** VSCode, Python
 
 - Brief description of the project and its purpose.
 - Highlight any unique features or challenges solved.
 - [Live Demo](https://your-live-demo-url.com) | [Project Documentation](https://your-project-doc-url.com)
 
-### [📁 Project Name 2](https://github.com/your-username/project-2)
-**Tech Stack:** Python, Flask, PostgreSQL
+### [📁 Sudoku Solver](https://github.com/your-username/project-2)
+**Tech Stack:** VSCode, Java
 
 - Brief description of the project and its purpose.
 - Key accomplishments or technologies used.
 - [Live Demo](https://your-live-demo-url.com) | [Project Documentation](https://your-project-doc-url.com)
+
+### [📁 C++ Project](https://github.com/your-username/project-2)
+**Tech Stack:** VSCode, C++
 
 ---
 
@@ -39,22 +42,12 @@ Welcome to my GitHub portfolio! I am a Ontario Tech University student majoring 
 
 ---
 
-## 📝 Blog & Writing
-
-- [Article Title 1](https://your-blog-url.com)
-  - Brief summary of the article.
-  
-- [Article Title 2](https://your-blog-url.com)
-  - Brief summary of the article.
-
----
-
 ## 🎯 Achievements
 
-- [Certification or Award Name](https://link-to-your-certification)
+- [St. Lawrence College Coding Challenge 2024 Question Writer]()
   - Brief description or context of the achievement.
   
-- [Open Source Contribution](https://github.com/repo-name)
+- [St. Lawrence College Coding Challenge 2025 Question Writer]()
   - Brief description of your contribution to the project.
 
 ---
@@ -64,15 +57,14 @@ Welcome to my GitHub portfolio! I am a Ontario Tech University student majoring 
 Feel free to reach out to me:
 
 - 📧 Email: [dylanjamesreynolds@hotmail.com](mailto:dylanjamesreynolds@hotmail.com)
-- 💬 Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanJReynolds&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanJReynolds&layout=compact&theme=radical)
 
 ---
 
