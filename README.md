@@ -1,7 +1,7 @@
 # 💼 Dylan Reynolds
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DylanReynolds-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dylan-reynolds-bb6839331/)
-[![GitHub](https://img.shields.io/badge/GitHub-DylanJReynolds-black?style=flat&logo=github)](https://github.com/DylanJReynolds)
+[![GitHub](https://img.shields.io/badge/GitHub-DylanJReynolds-red?style=flat&logo=github)](https://github.com/DylanJReynolds)
 
 Welcome to my GitHub portfolio! I am a Ontario Tech University student majoring in Computer Science. I enjoy building meaningful projects and contributing to open source.
 
