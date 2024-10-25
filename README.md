@@ -9,21 +9,21 @@ Welcome to my GitHub portfolio! I am a Ontario Tech University student majoring 
 
 ## 🛠 Tech Stack
 
-- **Languages:** [Java, Python, C++]
-- **Tools:** [Git, GitHub, VSCode]
+- **Languages:** Java, Python, C++
+- **Tools:** Git, GitHub, VSCode
 
 ---
 
 ## 🚀 Projects
 
-### [📁 Dungeons and Dragons Character Creator](https://github.com/your-username/project-1)
+### [📁 Dungeons and Dragons Character Creator](https://github.com/DylanJReynolds/Dungeons-and-Dragons-Character-Creator.git)
 **Tech Stack:** VSCode, Python
+- This project is currently under development and not fully completed
+- This code implements a basic Dungeons and Dragons character management system in Python, designed to create, update, and display character profiles with detailed attribute and proficiency management.
+- Key features include integration with external JSON files to provide ease of customization to the user 
+<!-- - [Live Demo](https://your-live-demo-url.com) | [Project Documentation](https://your-project-doc-url.com) -->
 
-- Brief description of the project and its purpose.
-- Highlight any unique features or challenges solved.
-- [Live Demo](https://your-live-demo-url.com) | [Project Documentation](https://your-project-doc-url.com)
-
-### [📁 Sudoku Solver](https://github.com/your-username/project-2)
+<!-- ### [📁 Sudoku Solver](https://github.com/your-username/project-2)
 **Tech Stack:** VSCode, Java
 
 - Brief description of the project and its purpose.
@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! I am a Ontario Tech University student majoring 
 - [Live Demo](https://your-live-demo-url.com) | [Project Documentation](https://your-project-doc-url.com)
 
 ### [📁 C++ Project](https://github.com/your-username/project-2)
-**Tech Stack:** VSCode, C++
+**Tech Stack:** VSCode, C++ -->
 
 ---
 
