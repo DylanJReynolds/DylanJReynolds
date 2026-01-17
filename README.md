@@ -1,71 +1,66 @@
-# 💼 Dylan Reynolds
+# Dylan Reynolds
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DylanReynolds-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dylan-reynolds-bb6839331/)
-[![GitHub](https://img.shields.io/badge/GitHub-DylanJReynolds-red?style=flat&logo=github)](https://github.com/DylanJReynolds)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan%20Reynolds-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dylan-reynolds-bb6839331/)
+[![GitHub](https://img.shields.io/badge/GitHub-DylanJReynolds-black?style=flat&logo=github)](https://github.com/DylanJReynolds)
 
-Welcome to my GitHub portfolio! I am a Ontario Tech University student majoring in Computer Science. I enjoy building meaningful projects and contributing to open source.
-
----
-
-## 🛠 Tech Stack
-
-- **Languages:** Java, Python, C++
-- **Tools:** Git, GitHub, VSCode
+Welcome to my GitHub portfolio. I am a Computer Science student at Ontario Tech University with a strong interest in software development and cybersecurity. I enjoy building practical projects, solving challenging problems, and applying secure coding principles to real-world scenarios.
 
 ---
 
-## 🚀 Projects
+## Technical Skills
 
-### [📁 Dungeons and Dragons Character Creator](https://github.com/DylanJReynolds/Dungeons-and-Dragons-Character-Creator.git)
-**Tech Stack:** VSCode, Python
-- This project is currently under development and not fully completed
-- This code implements a basic Dungeons and Dragons character management system in Python, designed to create, update, and display character profiles with detailed attribute and proficiency management.
-- Key features include integration with external JSON files to provide ease of customization to the user 
-<!-- - [Live Demo](https://your-live-demo-url.com) | [Project Documentation](https://your-project-doc-url.com) -->
-
-<!-- ### [📁 Sudoku Solver](https://github.com/your-username/project-2)
-**Tech Stack:** VSCode, Java
-
-- Brief description of the project and its purpose.
-- Key accomplishments or technologies used.
-- [Live Demo](https://your-live-demo-url.com) | [Project Documentation](https://your-project-doc-url.com)
-
-### [📁 C++ Project](https://github.com/your-username/project-2)
-**Tech Stack:** VSCode, C++ -->
+- **Programming Languages:** Python, Java, C++
+- **Cybersecurity:** Software Security Fundamentals, Vulnerability Analysis, Capture The Flag (CTF) Challenges
+- **Tools & Platforms:** Git, GitHub, Linux Command Line, VS Code
+- **Methodologies:** Agile (Scrum), Waterfall
 
 ---
 
-## 🌱 Currently Learning
+## Projects
 
-- [Topic or technology you're learning or interested in]
-- [Any relevant courses or certifications you're pursuing]
+### Dungeons and Dragons Character Creator  
+https://github.com/DylanJReynolds/Dungeons-and-Dragons-Character-Creator
 
----
+**Tech Stack:** Python, JSON, VS Code  
 
-## 🎯 Achievements
-
-- [St. Lawrence College Coding Challenge 2024 Question Writer]()
-  - Brief description or context of the achievement.
-  
-- [St. Lawrence College Coding Challenge 2025 Question Writer]()
-  - Brief description of your contribution to the project.
+- Developed a modular Dungeons & Dragons character management system in Python.
+- Implemented character creation, updating, and display of attributes, proficiencies, and statistics.
+- Integrated external JSON files to allow flexible configuration and customization.
+- Emphasized clean code structure and extensibility for future features.
 
 ---
 
-## 📫 Contact Me
+### Software Security CTF Project
+**Tech Stack:** Python, Linux  
 
-Feel free to reach out to me:
-
-- 📧 Email: [dylanjamesreynolds@hotmail.com](mailto:dylanjamesreynolds@hotmail.com)
+- Participated in a Capture The Flag (CTF) project focused on identifying and exploiting software vulnerabilities in controlled environments.
+- Applied secure coding concepts, vulnerability analysis, and problem-solving under time constraints.
+- Documented findings and proposed remediation strategies to mitigate discovered issues.
 
 ---
 
-### 📊 GitHub Stats
+## Achievements & Involvement
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanJReynolds&show_icons=true&theme=radical)
+- **St. Lawrence College Coding Challenge 2024 – Question Writer**
+  - Designed and reviewed algorithmic programming problems for a competitive coding event.
+
+- **St. Lawrence College Coding Challenge 2025 – Question Writer**
+  - Contributed to challenge development, ensuring problem clarity, correctness, and appropriate difficulty.
+
+---
+
+## Contact
+
+- Email: [dylanjamesreynolds@hotmail.com](mailto:dylanjamesreynolds@hotmail.com)
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanJReynolds&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanJReynolds&layout=compact&theme=radical)
 
 ---
 
-*Thanks for visiting! Looking forward to collaborating on awesome projects!* 
+*Thanks for visiting — always open to collaboration and learning opportunities.*
