@@ -30,12 +30,12 @@ https://github.com/DylanJReynolds/Dungeons-and-Dragons-Character-Creator
 
 ---
 
-### Software Security CTF Project
-**Tech Stack:** Python, Linux  
+### Encrypted Cookie Capture the Flag Project
+**Tech Stack:** ...
 
-- Participated in a Capture The Flag (CTF) project focused on identifying and exploiting software vulnerabilities in controlled environments.
-- Applied secure coding concepts, vulnerability analysis, and problem-solving under time constraints.
-- Documented findings and proposed remediation strategies to mitigate discovered issues.
+-
+-
+-
 
 ---
 
