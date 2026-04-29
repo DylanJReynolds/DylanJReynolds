@@ -31,6 +31,7 @@ I enjoy building systems that are not just functional, but **robust, testable, a
 ---
 
 ### Encrypted Cookie CTF  
+[Repository](https://github.com/DylanJReynolds/EncryptedCookie_CTF)
 **Tech Stack:** JavaScript, Pug, Cryptography  
 
 - Analyzed and exploited insecure cookie-based session management in a web application  
@@ -61,7 +62,7 @@ I enjoy building systems that are not just functional, but **robust, testable, a
 ---
 
 ### Dungeons and Dragons Character Creator  
-https://github.com/DylanJReynolds/Dungeons-and-Dragons-Character-Creator
+[Repository](https://github.com/DylanJReynolds/Dungeons-and-Dragons-Character-Creator)
 
 **Tech Stack:** Python, JSON, VS Code  
 
